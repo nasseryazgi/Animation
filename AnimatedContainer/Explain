@@ -1,0 +1,41 @@
+
+في هذا الدرس الاول  تعلم كيف تغير الأشكال عن طريق ال set State  : 
+ 
+
+بكل بساطة في كل عملية set state  راح تعمل تغير ال data  .
+
+
+خلينا متفقين انو ال width , hight في الـ container  راح اعطيهم قيمة عشوائية عن طريق مكتبة آل random  وانا موضح كيف الاستدعاء 
+
+
+غير ذلك الألوان كذلك قيمة عشوائية عن طريق الـ Color.fromARGB 
+
+ال border radius  بعطيه قيم عشوائية double  
+
+
+هذي طريقة بسيطة عشان تغير القيم شيكل ال container  .
+
+
+وطبعاً من اهم الاشياء عشان اتحكم في سرعة التغير انو استخدم ال Animated Container  واللي فيه ال duration  واللي من خلالها بقدر التحكم بالسرعة 
+ duration: Duration(seconds: 1)
+
+
+In this first lesson, you learn how the shapes changed by setting:
+ 
+
+Simply in every Set State process, you will change the Data.
+
+
+Let us agree that the width, high in the Container I will give them random value through the Al Random Library and I am shown how the summons is
+
+
+Other colors, as well as a random value by color.fromargb
+
+The Border Radius giving random values Double
+
+
+This is a simple way to change the values of the Container.
+
+
+Of course, one of the most important things to control the speed of change is that I use the Animated Container in which the Duration through which is as much as controlling the speed
+  Duration: Duration (Seconds: 1)
